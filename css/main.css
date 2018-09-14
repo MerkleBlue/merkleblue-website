@@ -130,6 +130,14 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   font-weight: 400;
 }
 
+.section-header .section-content {
+  margin-top: 15px;
+  color: #333;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+}
+
 .section-header .lines {
   margin: auto;
   width: 70px;
