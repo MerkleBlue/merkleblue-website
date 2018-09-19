@@ -575,12 +575,13 @@ button:focus {
     width: 100%;
   }
   .navbar-brand {
+    width: 260px;
     position: absolute;
     padding: 15px;
     top: 0;
   }
   .navbar-brand img {
-    width: 70%;
+    width: 100%;
   }
   #mobile-menu {
     display: none;
